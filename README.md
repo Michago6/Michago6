@@ -2,9 +2,9 @@
 - 👀 I’m interested in 'Programming'
 - 🌱 I’m currently learning 'Operating systems & touch typing'
 - 💞️ I’m looking to collaborate on 'Anything, just tell me'
-- 📫 How to reach me 'Send me a fax or message me on github'
+- 📫 How to reach me 'Send me a fax or message me on [LinkedIn](https://www.linkedin.com/in/misha-magnusson/)'
 - 👎 I dislike 'Emojis in function declarations'
-- ⚡ Fun fact: 'Play my games on "https://michago6.github.io/michagos-games/"'
+- ⚡ Fun fact: 'Play my games [here](https://michago6.github.io/michagos-games/)'
 ```
 for(int i = 0; i < length(README.md); i++) {
   printf("Sprinkle✨");
