@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Michago6
 - 👀 I’m interested in 'Programming'
-- 🌱 I’m currently learning 'Secure computer systems & touch typing'
+- 🌱 I’m currently learning 'cryptology, data engineering, machine learning & touch typing'
 - 💞️ I’m looking to collaborate on 'Anything, just tell me'
 - 📫 How to reach me 'Message me on [LinkedIn](https://www.linkedin.com/in/misha-magnusson/)'
 - 👎 I dislike 'Emojis in function declarations'
